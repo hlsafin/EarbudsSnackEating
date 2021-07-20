@@ -1,0 +1,17 @@
+TrainingData1 = John's 5 minute data
+TrainingData2 = John's 8 minute data
+TrainingData3 = John's 10_min_1 Data
+TrainingData4 = John's 10_min_2 Data
+TrainingData5 = John's 10_3_3 Data
+TrainingData6 = John's 26 data
+TrainingData7 = John's 30_1 Data
+TrainingData8 = Noah1 Data
+TrainingData9 = Noah2 Data
+TrainingData10 = Noah3 Data
+TrainingData11 = John's 34_min
+TrainingData12 = Safin_1
+TrainingData13 = Safin_2
+TrainingData14 = John's 30_2 Data
+TrainingData15 = Noah4 Data
+TestingData1 = Sam_1
+TestingData2 = Sam_2
